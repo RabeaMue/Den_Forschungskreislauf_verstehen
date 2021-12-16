@@ -24,4 +24,4 @@ Library Carpentry is authored and maintained through issues, commits, and pull r
 
 Cite as:
 
-Library Carpentry: LIVIVO. October 2021. https://librarycarpentry.org/lc-LIVIVO.
+Den Forschungskreislauf verstehen. Dezember 2021. https://librarycarpentry.org/Den_Forschungskreislauf_verstehen.
